@@ -1,2 +1,2 @@
-# First-Repository
-This is my first repository
+# Extracting and Visualizing Stock Data
+Extracting and Visualizing Stock Data
